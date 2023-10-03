@@ -24,6 +24,7 @@ Here are 3 quick and painless ways to contribute to this project:
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
 ## Getting started
+📢 Register here for [https://hacktoberfest.com/](https://hacktoberfest.com/) and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.
 * Step #1 Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Step #2 Clone your fork down to your local machine (Just run the command in terminal)
 
