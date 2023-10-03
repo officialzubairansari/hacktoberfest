@@ -108,5 +108,5 @@ Name the file `hello_world_zubairansari.xx`. e.g., `hello_world_zubairansari.js`
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
-Here is my `hello_world` example: [hello_world_zubairansari.js](https://github.com/officialzubairansari/hacktoberfest/scripts/hello_world_zubairansari.js)
+Here is my `hello_world` example: [hello_world_zubairansari.js](https://github.com/officialzubairansari/hacktoberfest/blob/main/scripts/hello_world_zubairansari.js)
 
