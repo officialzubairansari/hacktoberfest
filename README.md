@@ -49,6 +49,9 @@ git push origin branch-name
 * It's done, now just go to your repository and create a new pull request  (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
+Still Confused?? Drop me a message I will guide you personally 
+[Drop me a message](https://www.facebook.com/officialzubairansari)
+
 
 ## Choose from these tasks
 ### 1. Add your name
